@@ -1,0 +1,1 @@
+<input wire:model.debounce.500ms="search" class="form-input rounded-md ml-2 h-8" type="text" placeholder="Search for stuff...">
